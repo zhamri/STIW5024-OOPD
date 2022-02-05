@@ -7,13 +7,13 @@ public class Example1 {
         int weightAverage = 10;
         int weightComplex = 15;
 
-        int inputUseCase1 = 0;
-        int inputUseCase2 = 29;
-        int inputUseCase3 = 0;
+        int inputUseCaseSimple = 0;
+        int inputUseCaseAverage = 29;
+        int inputUseCaseComplex = 0;
 
-        int simple = weightSimple * inputUseCase1;
-        int average = weightAverage * inputUseCase2;
-        int complex = weightComplex * inputUseCase3;
+        int simple = weightSimple * inputUseCaseSimple;
+        int average = weightAverage * inputUseCaseAverage;
+        int complex = weightComplex * inputUseCaseComplex;
 
         int total = simple + average + complex;
 
