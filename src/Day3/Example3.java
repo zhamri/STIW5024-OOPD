@@ -2,9 +2,9 @@ package Day3;
 
 public class Example3 {
 
-    final int weightSimple = 5;
-    final int weightAverage = 10;
-    final int weightComplex = 15;
+    private final int weightSimple = 5;
+    private final int weightAverage = 10;
+    private final int weightComplex = 15;
 
     public static void main(String[] args) {
         Example3 example3 = new Example3();
