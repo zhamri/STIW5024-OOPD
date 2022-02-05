@@ -1,0 +1,8 @@
+package Day2;
+
+public class Car {
+
+    public void color(){
+        System.out.println("This is general color");
+    }
+}
