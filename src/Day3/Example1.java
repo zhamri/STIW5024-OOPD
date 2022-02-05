@@ -3,7 +3,7 @@ package Day3;
 public class Example1 {
     public static void main(String[] args) {
 
-        int weightSimple = 5;
+        int weightSimple = 5;    // local variable
         int weightAverage = 10;
         int weightComplex = 15;
 
